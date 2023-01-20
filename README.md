@@ -112,5 +112,5 @@ GOAL: TO CREATE A STANDARDIZED HOTKEY / MOUSE / CONTROLLER PORTABLE INPUT SYSTEM
         F last plane
         leftclick what plane,x,y,z,custom 3 points
  
-
+SEE THE XENOHOTKEYS .CSV TABLE ABOVE
 
