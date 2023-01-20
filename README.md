@@ -111,6 +111,6 @@ GOAL: TO CREATE A STANDARDIZED HOTKEY / MOUSE / CONTROLLER PORTABLE INPUT SYSTEM
       flatten
         F last plane
         leftclick what plane,x,y,z,custom 3 points
-
+ 
 
 
