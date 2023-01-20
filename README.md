@@ -1,5 +1,14 @@
 # XENOHOTKEYS
 GOAL: TO CREATE A STANDARDIZED HOTKEY / MOUSE / CONTROLLER PORTABLE INPUT SYSTEM FOR INTEROPERABILITY BETWEEN SOFTWARES LIKE 3D, 2D DESIGN PROGRAMS, AND MORE.
+//                                                                                                                                                    ////                                                                                                                                                    ////                                                                                                                                                    ////                                                                                                                                                    ////                                                                                                                                                    ////                                                                                                                                                    ////                                                                                                                                                    //
+//
+//
+//
+//
+//
+//
+
+
 
 
 PROPOSED SCHEMA FOR 3D CAD/MODELING SOFTWARES
