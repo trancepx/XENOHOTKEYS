@@ -1,7 +1,7 @@
 # XENOHOTKEYS
 GOAL: TO CREATE A STANDARDIZED HOTKEY / MOUSE / CONTROLLER PORTABLE INPUT SYSTEM FOR INTEROPERABILITY BETWEEN SOFTWARES LIKE 3D, 2D DESIGN PROGRAMS, AND MORE.
      
-INTRO: The view navigation is one of the most important things that needs to be synchronized between applications for a fluid workflow.
+     INTRO: The view navigation is one of the most important things that needs to be synchronized between applications for a fluid workflow.
 
      PROBLEM: Almost every single 3D software, has a completely different controls for the most important and often used ways of interacting with the program, namely - Camera controls, (Rotate, zoom, pan) and Selections/highlighting.
      SOLUTION 1: Remappable controls, at the very least, software developers should allow complete customization of all controls, and hotkeys. Including multibutton hotkeys.
@@ -19,7 +19,7 @@ INTRO: The view navigation is one of the most important things that needs to be 
 
 
 
-PROPOSED SCHEMA FOR 3D CAD/MODELING SOFTWARES
+# PROPOSED SCHEMA FOR 3D CAD/MODELING SOFTWARES
       views (GLOBAL PRIORITY 1)
       2d 
         x
