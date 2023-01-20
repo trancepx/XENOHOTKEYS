@@ -16,7 +16,7 @@ GOAL: TO CREATE A STANDARDIZED HOTKEY / MOUSE / CONTROLLER PORTABLE INPUT SYSTEM
      Something universal, such as degrees rotated / screen % of mouse traveled/pixels etc.
      I suggest a universal control
      Cameral Controls (Rotate, zoom, pan),
-
+ 
 
 
 # PROPOSED SCHEMA FOR 3D CAD/MODELING SOFTWARES
